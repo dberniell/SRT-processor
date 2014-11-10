@@ -1,0 +1,4 @@
+SRT-processor
+=============
+
+Ruby exercise
